@@ -41,7 +41,7 @@ export default function Hero() {
         {/* Right column - 3D Scene */}
         <div className="relative h-[420px] sm:h-[520px] lg:h-[560px]">
           <Spline
-            scene="https://prod.spline.design/wwTRdG1D9CkNs368/scene.splinecode"
+            scene="https://prod.spline.design/Ujidb4bmigoHT4IV/scene.splinecode"
             style={{ width: '100%', height: '100%' }}
           />
           {/* Subtle gradient gloss at bottom */}
